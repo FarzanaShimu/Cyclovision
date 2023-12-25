@@ -76,7 +76,7 @@ Project Organization
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/smn06/CycloVision.git
+   git clone https://github.com/farzanashimu/CycloVision.git
    ```
 
 2. **Install Dependencies:**
